@@ -13,7 +13,7 @@
     "knip": "knip"
   },
   "dependencies": {
-    "@capacitor/android": "^7.6.4",
+    "@capacitor/android": "^7.6.9",
     "@capacitor/app": "^7.1.2",
     "@capacitor/core": "^7.6.4",
     "@capacitor/haptics": "^7.0.0",
